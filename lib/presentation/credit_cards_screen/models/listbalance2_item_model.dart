@@ -1,0 +1,1 @@
+class Listbalance2ItemModel {}
